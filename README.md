@@ -27,8 +27,8 @@ This dataset consists of labelled videos of 6 human actions (walking, jogging, r
 All sequences were taken over homogeneous backgrounds with a static camera with 25fps frame rate. The sequences were downsampled to the spatial resolution of 160x120 pixels and have a length of four seconds in average. In summary, there are 25x6x4=600 video files for each combination of 25 subjects, 6 actions and 4 scenarios. For this mini-project we have randomly selected 20% of the data as test set.
 
 <div align="center">
-    <img src="./images/workout-wizard.png" alt="Summarization Results" width="1200">
-    <p><em>Gym Chat App</em></p>
+    <img src="./images/image1.png" alt="Actions" width="1200">
+    <p><em>Actions</em></p>
 </div>
 
 Dataset source: https://www.csc.kth.se/cvap/actions/
