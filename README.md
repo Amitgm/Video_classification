@@ -24,7 +24,7 @@ All sequences were taken over homogeneous backgrounds with a static camera with 
 
 Dataset source: https://www.csc.kth.se/cvap/actions/
 
-Methodology:
+<b> Methodology: </b>
 
 When performing image classification, we input an image to our CNN; Obtain the predictions from the CNN; Choose the label with the largest corresponding probability
 
